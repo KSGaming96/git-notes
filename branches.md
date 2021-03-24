@@ -1,3 +1,3 @@
-A branch in Git is a way to save your files in a server. You can access these files later, restore, or push your new changes to the git repository.
+A branch in Git is a way to save your files in a server. You can access these files later, restore, or push your new changes to the git repository. (Changes)
 Git starts with the master or main repository. This is where you will be submitting finished changes, and is the branch most people will download
 when looking at your project. You can also make branches for specific changes and testing, with the ability to revert easily.
